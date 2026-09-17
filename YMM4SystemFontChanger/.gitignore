@@ -1,5 +1,0 @@
-Directory.Build.props
-bin/
-obj/
-*.user
-.vs/
