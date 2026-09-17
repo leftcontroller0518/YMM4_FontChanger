@@ -1,4 +1,9 @@
 # YMM4 System Font Changer
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)
+[![.NET](https://img.shields.io/badge/.NET-10.0-blue.svg)](#)
+[![Downloads](https://img.shields.io/github/downloads/leftcontroller0518/YMM4_FontChanger/total)](https://github.com/leftcontroller0518/YMM4_FontChanger/releases/latest)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4869f786-9c97-441a-8f13-4179d141c19e" />
 
 YukkuriMovieMaker4（YMM4）本体のUI表示フォント（メニュー・ボタン・パネル・設定画面・タイムライン等）を
 変更するプラグインです。**動画内のテキスト・字幕のフォント設定には一切影響しません。**
